@@ -1,0 +1,9 @@
+Name,Nombres de los cumulos
+R- out,radio exterior al que se midieron los observables
+nelec,densidad electronica
+neerr, el error en la densidad electronica
+Tx,Temperatura
+Txerr: ,Error en la temperatura
+Kitpl,entropía
+Mgrav,Masa gravitacional 
+Merr,error en la masa gravitacional
